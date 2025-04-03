@@ -1,8 +1,12 @@
-🚀 Tech Lead | Full-Stack Developer
-💡 Passionate about scalable architectures, Node.js, MySQL, Firebase, and React Native
-🔧 Building high-performance backend systems, APIs, and automation tools
-📈 Scaling from 10,000 to 1M+ users with efficient infra & database optimizations
-📍 Currently working on push notifications, cron jobs, and cloud infra
-👨‍💻 Always exploring server optimizations, CI/CD, and microservices
+🚀 Tech Lead | System Architect | Scalability Enthusiast
 
-💬 Let's talk tech!
+💻 Stack: PHP (CodeIgniter 3 & 4), MySQL, JavaScript (React, Next.js, React Native iOS/Android), Node.js, MongoDB
+📦 Infra & Deployment: DigitalOcean, Linode, Ubuntu, Apache/Nginx (Reverse Proxy), AWS Amplify, Netlify
+📡 Scalability & System Design: Microservices, High Availability Systems, Load Balancing, Metered Bandwidth Optimization
+🛒 E-commerce & Payments: Order Tracking, UPI Gateways, Affiliate/Cashback Modules, WooCommerce
+📲 Mobile & Analytics: Push Notifications (FCM), Firestore, GA4, AppsFlyer, Adjust SDK, Freshchat SDK
+🔍 Web Scraping & Crawling: Puppeteer, Cheerio, Headless APIs, Rapid API, Amify API
+📡 Server & Email Management: Mailcow Setup, CRM Management, Reverse Proxy Config
+🔥 6+ Years of hands-on experience in building, optimizing, and scaling systems from scratch to production
+
+🚀 Always exploring better architectures, system scalability, and performance optimizations!
