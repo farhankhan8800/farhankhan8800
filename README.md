@@ -1,6 +1,7 @@
 🚀 Tech Lead | System Architect | Scalability Enthusiast
 
 💻 Stack: PHP (CodeIgniter 3 & 4), MySQL, JavaScript (React, Next.js, React Native iOS/Android), Node.js, MongoDB
+
 📦 Infra & Deployment: DigitalOcean, Linode, Ubuntu, Apache/Nginx (Reverse Proxy), AWS Amplify, Netlify
 📡 Scalability & System Design: Microservices, High Availability Systems, Load Balancing, Metered Bandwidth Optimization
 🛒 E-commerce & Payments: Order Tracking, UPI Gateways, Affiliate/Cashback Modules, WooCommerce
