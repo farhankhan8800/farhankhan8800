@@ -1,4 +1,4 @@
-🚀 Tech Lead | System Architect | Scalability Enthusiast
+🚀 Tech Lead | System Architect | System Design And Scalability
 
 💻 Stack: PHP (CodeIgniter 3 & 4), MySQL, JavaScript (React, Next.js, React Native iOS/Android), Node.js, MongoDB
 
