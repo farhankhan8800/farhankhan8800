@@ -1,5 +1,8 @@
+🚀 Tech Lead | Full-Stack Developer
+💡 Passionate about scalable architectures, Node.js, MySQL, Firebase, and React Native
+🔧 Building high-performance backend systems, APIs, and automation tools
+📈 Scaling from 1,000 to 100,000+ users with efficient infra & database optimizations
+📍 Currently working on push notifications, cron jobs, and cloud infra
+👨‍💻 Always exploring server optimizations, CI/CD, and microservices
 
-<!---
-farhankhan8800/farhankhan8800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 Let's talk tech!
